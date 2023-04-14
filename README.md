@@ -18,3 +18,9 @@ int main() {
        z =((a*x)+(b*y*y));
     }
     cout<<z;
+
+
+
+
+    return 0;
+}
